@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **Love adorable things**
 
+- 🎲 Skill **Creative thinking and Easily Approachable**
+
 <h3 align="left">Connect with me: https://www.facebook.com/xuanying.lee.35/?locale=de_DE </h3>
 <p align="left">
 </p>
