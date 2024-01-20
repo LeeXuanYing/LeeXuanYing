@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lee Xuan Ying</h1>
 <h3 align="center">Trying to stay alive</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **studying coding, animation and game design philosophy**
 
-- 🌱 I’m currently learning **how to use github**
+- 🌱 I’m currently learning **how to use github, C#, C++**
 
 - 📫 How to reach me **leexuanying2@gmail.com**
 
-- ⚡ Fun fact **Dead Inside**
+- ⚡ Fun fact **Love adorable things**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.facebook.com/xuanying.lee.35/?locale=de_DE </h3>
 <p align="left">
 </p>
 
