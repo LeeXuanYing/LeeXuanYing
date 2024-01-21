@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-
+<h1 align="center">🪞Reflection🪞</h1>
  **Assignment 1**
 - For this assignment , we visited the NALI ( New Academia Learning Innovation ) event organized by Universiti Teknologi Malaysia. The event is participated by many students aiming to present their project and achieve their goal by using the means of combining various aspects of technology and information systems. My view on how technology such as Virtual Reality, Augmented Reality, Motion Input and more can be integrated and used is expanded, knowing there are much more creative approaches one can take to develop their project. Interviewing the participants also allows me to understand the mindset and tools required to tackle the project they aim to create.I would like to participate in more events like NALI in the future to see more creative takes on using technology and information systems.
 
