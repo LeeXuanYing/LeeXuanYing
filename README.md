@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **leexuanying2@gmail.com**
 
-- ⚡ Fun fact **Love adorable things**
+- ⚡ Fun fact **Like adorable things**
 
 - 🎲 Skill **Creative thinking and Easily Approachable**
 
